@@ -1,0 +1,40 @@
+{
+  "address": [
+    {
+      "cep": "69085180",
+      "rua": "Barreirinha",
+      "numero": "628",
+      "bairro": "Grande Vitoria",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "complemento": "Merc. Rosa de Saron",
+      "ponto_referencia": "Baratao da Carne",
+      "nome": "Tia Grande Vitoria",
+      "id": 2
+    },
+    {
+      "cep": "69086771",
+      "rua": "Rua do Igarapé",
+      "numero": "17",
+      "bairro": "Zumbi I",
+      "cidade": "Manaus",
+      "estado": "Amazonas",
+      "complemento": "Perto do T5",
+      "ponto_referencia": "",
+      "nome": "Minha Casa",
+      "id": 3
+    },
+    {
+      "cep": "69086772",
+      "rua": "Rua da Ressurreição",
+      "numero": "179",
+      "bairro": "Grande Vitoria",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "complemento": "",
+      "ponto_referencia": "4 DIP",
+      "nome": "Casa Oz",
+      "id": 4
+    }
+  ]
+}

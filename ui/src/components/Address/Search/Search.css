@@ -1,0 +1,38 @@
+.address-search__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.address-search__atributtes {
+  display: flex;
+  justify-content: space-between;
+}
+
+.address-search__input,
+.address-search__select {
+  background: #1A1A1A;
+  width: 100%;
+  height: 45px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 14px;
+  padding: 0 15px;
+  outline: none;
+  transition: border-color 0.2s ease-in;
+  margin-bottom: 15px;
+}
+
+.address-search__select {
+  margin-left: 10px;
+  width: 35%;
+}
+
+.address-search__input:focus,
+.address-search__select:focus {
+  border-color: #FF7373; 
+}
+

@@ -1,0 +1,36 @@
+.address-form__group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.address-form__group label {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Montserrat Semibold', sans-serif;
+  margin-bottom: 5px;
+}
+
+.address-form__group input {
+  background: #1A1A1A;
+  width: 100%;
+  height: 45px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 14px;
+  padding: 0 15px;
+  outline: none;
+  transition: border-color 0.2s ease-in;
+  margin-bottom: 15px;
+}
+
+.address-form__group input:focus {
+  border-color: #FF7373;
+}
+
+.address-search__input:focus {
+  border-color: #FF7373; 
+}

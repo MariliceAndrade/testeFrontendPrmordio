@@ -1,0 +1,21 @@
+.ui-button {
+  border-radius: 5px;
+  height: 35px;
+  font-size: 16px;
+  font-family: 'Montserrat Bold', sans-serif;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 8px 10px;
+  white-space: nowrap;
+}
+
+.ui-button--bordered {
+  color:  #ff7373;
+  border: 1px solid currentColor;
+}
+
+.ui-button--contained {
+  color: #fff;
+  background-color: #ff7373;
+  border: 1px solid #ff7373;
+}

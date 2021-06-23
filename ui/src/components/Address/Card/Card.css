@@ -1,0 +1,31 @@
+.address-card {
+  border-radius: 5px;
+  border: 1px solid #c3c3c3;
+  box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.80);
+  padding: 15px;
+  /* align-items: center; */
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.address-card__nome {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.address-card__endereco {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.address-card_info {
+  font-size: 13px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
